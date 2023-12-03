@@ -1,6 +1,5 @@
 # Hi there 👋
 ## 🌱 I’m currently learning ...
-## 🔭 I’m currently working on becoming smart
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miroverleysen&show_icons=true)](https://miroverleysen.be)
 
